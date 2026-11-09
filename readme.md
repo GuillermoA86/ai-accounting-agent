@@ -30,6 +30,7 @@ ai-accounting-agent/
 └── README.md             # Project documentation
 ⚙️ Prerequisites & Requirements
 Python 3.10+ installed on your system.
+```
 
 Ollama installed and running locally with a Qwen model pulled:
 
